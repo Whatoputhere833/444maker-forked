@@ -1,6 +1,6 @@
 # 444maker-forked
 
-A minimal fork of the original [444 Mat JSON Maker](https://444matjsonmaker.netlify.app), with expanded item options added to support more customization and use cases.
+A minimal fork of the original [444 Mat JSON Maker](https://444mat-json-maker.netlify.app), with expanded item options added to support more customization and use cases.
 
 ## About
 
